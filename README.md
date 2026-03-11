@@ -25,3 +25,6 @@ Ce site est automatiquement déployé sur GitHub Pages à chaque push sur la bra
 ## Contact
 
 N’hésitez pas à me contacter pour toute question ou opportunité !
+
+## Voir le site en ligne
+[Visiter mon portfolio ](https://diarra68.github.io/mon-portfolio/)
